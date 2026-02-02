@@ -1,4 +1,8 @@
 def ft_filter(f, itr) -> filter :
+	"""ft_filter(function or None, iterable) --> list_iterator object
+
+Return an iterator yielding those items of iterable for which function(item)
+is true. If function is None, return the items that are true."""
 	if f is None :
 		return iter([n for n in itr if n])
 	else :
@@ -14,3 +18,4 @@ def ft_filter(f, itr) -> filter :
 # print(type(ft_filter(None, [1, 2, 0])))
 
 # print(filter.__doc__)
+# print(ft_filter.__doc__)
