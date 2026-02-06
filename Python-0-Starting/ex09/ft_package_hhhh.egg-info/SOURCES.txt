@@ -1,0 +1,8 @@
+README.md
+setup.py
+ft_package_hhhh/__init__.py
+ft_package_hhhh/simple.py
+ft_package_hhhh.egg-info/PKG-INFO
+ft_package_hhhh.egg-info/SOURCES.txt
+ft_package_hhhh.egg-info/dependency_links.txt
+ft_package_hhhh.egg-info/top_level.txt
